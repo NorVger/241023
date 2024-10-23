@@ -1,0 +1,14 @@
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\bin\Debug\net8.0\241023.exe
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\bin\Debug\net8.0\241023.deps.json
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\bin\Debug\net8.0\241023.runtimeconfig.json
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\bin\Debug\net8.0\241023.dll
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\bin\Debug\net8.0\241023.pdb
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\obj\Debug\net8.0\241023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\obj\Debug\net8.0\241023.AssemblyInfoInputs.cache
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\obj\Debug\net8.0\241023.AssemblyInfo.cs
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\obj\Debug\net8.0\241023.csproj.CoreCompileInputs.cache
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\obj\Debug\net8.0\241023.dll
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\obj\Debug\net8.0\refint\241023.dll
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\obj\Debug\net8.0\241023.pdb
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\obj\Debug\net8.0\241023.genruntimeconfig.cache
+C:\Users\docar\Documents without cloud\VSCode\241023\241023\obj\Debug\net8.0\ref\241023.dll
